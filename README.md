@@ -1,0 +1,2 @@
+# MediatR.Demo
+MediatR demo
